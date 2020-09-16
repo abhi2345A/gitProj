@@ -1,3 +1,4 @@
 TO work on CR1 gatway
 
 Change to Check Push
+Change to test Pull made by team mate or WI6
