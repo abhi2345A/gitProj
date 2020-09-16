@@ -1,5 +1,6 @@
 TO work on CR1 gatway
 
-Change->to Check Push
-Change->to test Pull made by team mate or WI6
-Change->to test rebase with conflict local master and remote master, this change is by teammate on remote master WI7
+
+Change 1:->to Check Push
+Change 2:->to test Pull made by team mate or WI6
+Change 3:->to test rebase with conflict local master and remote master, this change is by teammate on remote master WI7
